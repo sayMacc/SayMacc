@@ -1,9 +1,9 @@
 ## Hola 👋 Soy Miguel Cabrera (2bSai)
 
-Desarrollador web apasionado por el aprendizaje continuo y la exploración de nuevas tecnologías.
+Desarrollador web con pasión por el aprendizaje continuo y la innovación, siempre en busca de nuevas tecnologías para mejorar habilidades y crear soluciones efectivas.
 
 ### 🚀 Trabajo Actual:
-Fullstack Developer en [POPLab](https://poplab.mx/).
+Fullstack Developer en [POPLab](https://poplab.mx/). Y freelance 
 
 ### 🌟 Proyectos destacados:
 
