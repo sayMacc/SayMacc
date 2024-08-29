@@ -3,7 +3,7 @@
 Desarrollador web con pasión por el aprendizaje continuo y la innovación, siempre en busca de nuevas tecnologías para mejorar habilidades y crear soluciones efectivas.
 
 ### 🚀 Trabajo Actual:
-Fullstack Developer en [POPLab](https://poplab.mx/). Y freelance 
+Fullstack Developer en [POPLab](https://poplab.mx/) y Freelance 
 
 ### 🌟 Proyectos destacados:
 
@@ -15,4 +15,4 @@ Fullstack Developer en [POPLab](https://poplab.mx/). Y freelance
 
 - **Premio Nacional de Periodismo 2021 (México):** Contribución al diseño web y desarrollo del reportaje [“Carlos Zamarripa, el caudillo de la justicia mexicana.”](https://elcaudillo.poplab.mx/)
 - **[Fetisov Journalism Awards 2022](https://fjawards.com/):** Diseño web y desarrollo del informe ["Las Fichas de Coca Cola"](https://poplab.mx/especiales/las-fichas-de-coca/).
-- **Premio 2022 (México):** Contribución al diseño web y desarrollo del reportaje [No es daño colateral, es nuestro futuro amenazado](https://poplab.mx/especiales/guanajuato-violencia-homicida-menores/).
+- **Premio Nacional de Periodismo 2022 (México):** Contribución al diseño web y desarrollo del reportaje [No es daño colateral, es nuestro futuro amenazado](https://poplab.mx/especiales/guanajuato-violencia-homicida-menores/).
