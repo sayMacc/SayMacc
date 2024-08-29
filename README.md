@@ -1,4 +1,4 @@
-## Hola 👋 Soy Miguel Cabrera (2bSai)
+## Hola 👋 Soy Miguel Cabrera (2BSai)
 
 Desarrollador web con pasión por el aprendizaje continuo y la innovación, siempre en busca de nuevas tecnologías para mejorar habilidades y crear soluciones efectivas.
 
